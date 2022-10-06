@@ -1,0 +1,9 @@
+yfinance
+fix_yahoo_finance
+pandas
+pandas-datareader
+streamlit
+pyngrok==4.1.1
+cufflin
+plotly.offline 
+datetime
