@@ -1,4 +1,4 @@
-%%writefile technical_analysis_app.py
+
 import yfinance as yf
 import streamlit as st
 import datetime
